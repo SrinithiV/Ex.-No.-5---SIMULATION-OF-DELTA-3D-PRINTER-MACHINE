@@ -31,6 +31,7 @@
 
 ### Assembly of Delta 3D Printer
 
+
 #### Base : 
 The base refers to the stationary bottom platform on which the printer is mounted. It is the foundation that provides stability and support for the entire printer structure.
 
@@ -77,6 +78,8 @@ In a delta 3D printer, a motor with gear refers to a motor that is equipped with
 An LCD (Liquid Crystal Display) refers to a display panel that is used to provide visual feedback and user interface capabilities. The LCD is typically integrated into the control interface of the printer, allowing users to interact with the printer and access various settings and functions.
 
 ### Playing with Axes
+
+
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
