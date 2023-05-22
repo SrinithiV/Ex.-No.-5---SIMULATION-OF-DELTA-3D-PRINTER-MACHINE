@@ -31,6 +31,7 @@
 
 ### Assembly of Delta 3D Printer
 
+![5 1](https://github.com/SrinithiV/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118722030/3d4adbdd-b7ff-4af6-91f6-a4eebd37bd50)
 
 #### Base : 
 The base refers to the stationary bottom platform on which the printer is mounted. It is the foundation that provides stability and support for the entire printer structure.
@@ -79,7 +80,7 @@ An LCD (Liquid Crystal Display) refers to a display panel that is used to provid
 
 ### Playing with Axes
 
-
+![5 2](https://github.com/SrinithiV/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118722030/a6cc0b9e-661b-470e-b9bb-f34b86515e70)
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
